@@ -1,4 +1,4 @@
-### Hi there, my name is Aniruddha.👋
+### Hi there, my name is Aniruddha 👋
 - I am an IT student.
 - Studying in K.J. Somaiya College of Engineering.
 - Email: dhawadani@gmail.com
