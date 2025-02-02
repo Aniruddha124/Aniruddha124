@@ -1,6 +1,5 @@
 ### Hi there, my name is Aniruddha 👋
-- I am an IT student.
-- Studying in K.J. Somaiya College of Engineering.
+- I am a Software Engineer with a BTech in Information Technology.
 - Email: dhawadani@gmail.com
 - Linkedin: https://www.linkedin.com/in/aniruddha-dhawad-2235a5192/
 
